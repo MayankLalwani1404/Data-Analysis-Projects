@@ -63,54 +63,66 @@ Dashboard Design
 2. 👥 HR Analytics / Employee Attrition Dashboard (Tableau)
 🔍 Overview
 
-A business-focused HR analytics dashboard designed to understand employee attrition patterns and key factors influencing employee turnover.
+An interactive HR analytics dashboard built using Tableau to analyze employee attrition patterns and identify key factors influencing workforce turnover. The dashboard enables both high-level and detailed analysis of employee behavior to support data-driven HR decision-making.
 
 🎯 Objectives
 
-Analyze overall attrition rate
+Analyze the overall employee attrition rate
 
-Identify department-wise attrition trends
+Identify department-wise and job role-based attrition trends
 
-Study impact of salary, overtime, and job satisfaction
+Understand the impact of salary, overtime, and job satisfaction
 
-Understand promotion and career growth patterns
+Evaluate the effect of promotion gaps on employee retention
 
-📊 Planned Features
+Enable interactive exploration of workforce data
+
+📊 Dashboard Features
 
 KPIs
 
-Attrition Rate
-
 Total Employees
+
+Attrition Count
+
+Attrition Rate
 
 Active Employees
 
 Visualizations
 
-Attrition by Department
+Attrition by Department (Bar Chart)
 
-Salary vs Attrition
+Attrition by Job Role (Bar Chart)
 
-Overtime Impact on Attrition
+Impact of Overtime on Attrition
 
-Job Satisfaction Analysis
+Salary Distribution by Attrition (Box Plot)
 
-Promotion Trends
+Attrition by Job Satisfaction
+
+Attrition vs Promotion Gap
 
 Interactivity
 
-Filters for department, job role, and other factors
+Filters: Department, Job Role, Gender, Education Field
+
+Click-based filtering across all charts (Dashboard Actions)
 
 🛠 Tools & Technologies
 
-Tableau
+Tableau Desktop
 
-Data Analysis
+Tableau Public
 
 Data Visualization
 
-Business Analysis
+Data Analysis
+
+Dashboard Design
+
+Business Intelligence
 
 🔗 Live Dashboard
 
-👉 This will be updated when the project is complete
+👉 https://public.tableau.com/views/HR_Analytics_Dashboard_Employee_Attrition_Insights/HRAnalyticsDashboardEmployeeAttritionInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
