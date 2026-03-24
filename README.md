@@ -126,3 +126,51 @@ Business Intelligence
 🔗 Live Dashboard
 
 👉 https://public.tableau.com/views/HR_Analytics_Dashboard_Employee_Attrition_Insights/HRAnalyticsDashboardEmployeeAttritionInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+3. 📊 Customer Churn Analysis Dashboard (Tableau)
+🔍 Overview
+
+An interactive Tableau dashboard designed to analyze customer churn behavior and uncover key factors influencing customer retention and attrition.
+
+This project focuses on transforming raw customer data into actionable business insights.
+
+🎯 Objectives
+Identify key drivers of customer churn
+Analyze churn patterns across different customer segments
+Understand the relationship between tenure and churn
+Evaluate impact of services and payment methods on churn
+Support decision-making for customer retention strategies
+📊 Dashboard Features
+KPIs
+Total Customers
+Churn Count
+Churn Rate
+Active Customers
+Visualizations
+Churn by Contract Type
+Churn by Tenure (Trend Analysis using Bins)
+Churn by Internet Service
+Churn by Payment Method
+Churn by Senior Citizen
+Monthly Charges vs Churn (Box Plot)
+Interactivity
+Filters:
+Contract
+Gender
+Internet Service
+Payment Method
+Dynamic dashboard interaction for deeper analysis
+📈 Key Insights
+Customers with month-to-month contracts have the highest churn rate
+Churn is highest in early tenure stages and stabilizes over time
+Fiber optic service users show higher churn compared to other services
+Electronic check users are more likely to churn
+Monthly charges distribution differs significantly between churned and retained customers
+🛠 Tools & Technologies
+Tableau Desktop
+Tableau Public
+Data Visualization
+Data Analysis
+🔗 Live Dashboard
+
+👉 https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17743513939320/CustomerChurnAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
